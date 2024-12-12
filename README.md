@@ -29,7 +29,6 @@ The project involves in-depth exploration of a human resources dataset, analyzin
   - scikit-learn
   - xgboost
 
-[Previous sections remain the same]
 
 ## Machine Learning Performance Prediction
 
